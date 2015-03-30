@@ -454,8 +454,8 @@ div#columns:hover figure:not(:hover) {
     position: absolute;
     top: 0;
     left: 0;
-    width: 70%;
-    height: 70%;
+    width: 77%;
+    height: 77%;
     -moz-animation: spin 6s infinite linear;
     -webkit-animation: spin 6s infinite linear;
     -ms-animation: spin 6s infinite linear;
